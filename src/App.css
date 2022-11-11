@@ -1,9 +1,24 @@
 /* Add styling for your page here */
-
-.App {
-
+*{
+    background-color: #163057;
+    color:honeydew
 }
-
-.BakeryItem {
-  
+.head-bakery{
+    font-size:50px;
+    padding-left:45%;
+}
+.atc{
+    padding-left:10px;
+    padding-right:10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left:100px;
+}
+.tab{
+    margin-left:150px;
+    margin-top:10px;
+}
+.cart{
+    margin-left: 80vw;
+    margin-top:-180vh;
 }
